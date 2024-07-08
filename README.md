@@ -16,7 +16,7 @@
 - 🌱 I’m learning new things about Bloc State Management
 
 
-- 👯 Keen to collaborate as a Flutter Developer
+- 👯 Keen to collaborate as a **[Flutter Developer]()**
 
 
 - 📫 Reach me at: waizkamboh6@gmail.com
